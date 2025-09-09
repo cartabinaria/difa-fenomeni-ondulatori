@@ -1,4 +1,4 @@
-# \<Insegnamento\>
+# Fenomeni Ondulatori
 
 Una raccolta di risorse per l'insegnamento di Fenomeni Ondulatori del Corso di
 Laurea in Fisica. Ulteriori informazioni sono disponibili sulla
